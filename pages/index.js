@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Gzus Taralabarrébia Cova</h1>
+    return <h1>Gzus Taralabarrébia Shalalalala Cova</h1>
 }
 
 //aqui basicamente eu estou dizendo ao React
